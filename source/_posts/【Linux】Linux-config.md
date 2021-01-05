@@ -1,10 +1,11 @@
 ---
-title: Linux系统配置指南
-categories:
-  - Linux
+title: 【Linux】Linux系统配置指南
 tags:
   - Linux
   - Arch
+categories:
+  - Linux
+date: 2020-06-20
 ---
 
 # Linux系统配置指南

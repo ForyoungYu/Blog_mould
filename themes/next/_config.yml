@@ -69,7 +69,7 @@ creative_commons:
   license: by-nc-sa
   sidebar: false
   post: false
-  language:
+  language: zh-CN
 
 
 # ---------------------------------------------------------------
@@ -85,8 +85,9 @@ menu:
   archives: /archives/ || fa fa-archive
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
+  系列: /series/ || fa fa-book
   about: /about/ || fa fa-user
-  # schedule: /schedule/ || fa fa-calendar
+  schedule: /schedule/ || fa fa-calendar
   # sitemap: /sitemap.xml || fa fa-sitemap
   # commonweal: /404/ || fa fa-heartbeat
 
@@ -352,6 +353,7 @@ android_chrome_color: "#222"
 codeblock:
   # Code Highlight theme
   # All available themes: https://theme-next.js.org/highlight/
+  # highlight_theme: night
   theme:
     light: default
     dark: tomorrow-night

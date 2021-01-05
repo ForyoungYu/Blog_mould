@@ -1,10 +1,11 @@
 ---
-title: VScode配置C++调试的配置文件
+title: 【C/C++】VScode配置C++调试的配置文件
 tags: 
   - C++
-  - VScode
+  - VSCode
 categories:
-  - VScode
+  - VSCode
+date: 2020-06-25
 ---
 # C++配置文件
 
